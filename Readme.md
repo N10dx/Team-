@@ -4,8 +4,8 @@
 
 In this data analysis project, conducted by:
 - Mohammed Alharbi
-- Said Qahs
-- Sadeem Fihra
+- Saeed Qahhas
+- Sadeem Fihrah
 
 We have thoroughly analyzed call data within the company using Python's data analysis libraries. The project addressed a challenge faced by the company's communication department, which struggled to gain meaningful insights from the call records. Our analysis aimed to visualize call patterns, identify trends, and optimize communication strategies.
 
@@ -31,6 +31,7 @@ We employed the following tools and libraries for this analysis:
 - numpy
 - seaborn
 - datetime
+- pandas profiling
 
 ## Approach
 
